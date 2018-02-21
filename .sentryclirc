@@ -1,0 +1,9 @@
+[update]
+disable_check=true
+
+[auth]
+token=0c83bc6cdb074cae8bd1c4011e11f40fbf09a800ec804e479c4cf7998933e351
+
+[defaults]
+org=mark-ballenger
+project=sentrydemo
